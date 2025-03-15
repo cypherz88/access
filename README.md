@@ -1,4 +1,3 @@
-# access 
 #!/bin/bash
 
 for utils in argon2 xxd bc; do
